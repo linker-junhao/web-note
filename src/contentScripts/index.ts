@@ -1,1 +1,2 @@
-import { createApp } from 'vue';
+const selection = window.getSelection();
+console.log(selection);
